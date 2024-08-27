@@ -19,9 +19,5 @@ I have performed web scraping on Leetcode problem set using Beautiful Soup 4 and
 - Five search results are displayed as the title of the problems.
 - Clicking on the title will display the problem and again clicking on the title will hide the problem.
 
-## Link
-Click on this link to check out this project deployed on Heroku:
-[Codesearch](https://codesearch-app.herokuapp.com/)
-
 ## Created by
 [@mohitkumarmatwa000@gmail.com)
