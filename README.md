@@ -1,4 +1,4 @@
-# Codesearch Search Engine
+# Coding Problem Retrieval System
 I have created a search engine-"Codesearch" comprising DSA Problems. 
 
 ## Technologies
